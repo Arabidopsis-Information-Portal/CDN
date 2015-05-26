@@ -5,7 +5,7 @@
 //
 */
 
-var MINEURL = "http://intermine.modencode.org/thalemineval/";
+var MINEURL = "https://apps.araport.org/thalemine/";
 var BASEURL= MINEURL + "service/query/results?query=";
 var QUERYSTART = "%3Cquery%20model=%22genomic%22%20view=%22" +
 "Protein.proteinDomainRegions.start%20Protein.proteinDomainRegions.end%20" +
